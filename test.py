@@ -2,6 +2,7 @@ from random import shuffle
 
 Liste = "Super Toller Extremer Harter Cooler Nerviger".upper().split()
 shuffle(Liste)
+lol
 
 
 for strophe in range(2):
