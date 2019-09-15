@@ -9,6 +9,7 @@ abstand = auflösung // raster
 
 
 pg.init()
+pg.display.set_caption('Minesweeper')
 screen = pg.display.set_mode([auflösung, auflösung])
 
 
